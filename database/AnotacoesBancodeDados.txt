@@ -1,0 +1,6 @@
+Nota 1:
+
+- Dar preferencia a nomear arquivos contendo as tabelas apenas por um nome
+- Os arquivos contendo os dados teram o nome da tabela a quão estarão adicionando os dados 
+seguido de "_data"
+
