@@ -33,6 +33,9 @@ Cabruca_Consortium/
 │   │   ├── chat.sql          
 │   │   └── notifications.sql
 │   │
+│   ├── documentation/        
+│   │   └── report.sql
+│   │
 │   ├── orders/              
 │   │   ├── packaging.sql
 │   │   ├── purchase.sql      
